@@ -1,0 +1,6 @@
+com.example.tictac.test.app-annotation-experimental-1.3.0-0 /home/yveane/.gradle/caches/transforms-4/66b59ee9a4022741c9c6051f34e916da/transformed/annotation-experimental-1.3.0/res
+com.example.tictac.test.app-core-1.5.0-1 /home/yveane/.gradle/caches/transforms-4/8f97cd00dab6f9cea83391c6643bce48/transformed/core-1.5.0/res
+com.example.tictac.test.app-androidTest-2 /home/yveane/AndroidStudioProjects/TicTac/app/build/generated/res/resValues/androidTest/debug
+com.example.tictac.test.app-mergeDebugAndroidTestResources-3 /home/yveane/AndroidStudioProjects/TicTac/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.tictac.test.app-mergeDebugAndroidTestResources-4 /home/yveane/AndroidStudioProjects/TicTac/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.tictac.test.app-debugAndroidTest-5 /home/yveane/AndroidStudioProjects/TicTac/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources
